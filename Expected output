@@ -1,0 +1,430 @@
+🚀 Initializing Symbiodynamic Cyber-Immune System (SCIS)...
+
+==================================================
+🤖 SYMBIODYNAMIC CYBER-IMMUNE SYSTEM
+==================================================
+  ✅ Created NetworkSentinel with 3 rules
+  ✅ Created DeceptionDirector with 3 rules
+  ✅ Created ThreatAnalyzer with 3 rules
+  ✅ Swarm Coordinator initialized
+
+✅ SCIS Initialization Complete!
+   Active Agents: 3
+   Ready to start protection...
+
+🎬 Starting SCIS Demo for 30 seconds...
+   Simulating network traffic and threat responses...
+
+
+🚨 THREAT EVENT DETECTED by NetworkSentinel
+   Type: udp_flood
+    🎭 Deception activated for attacker_1763655154: ['simple_honeypot', 'obvious_breadcrumbs']
+   🎭 Deception response: ['simple_honeypot', 'obvious_breadcrumbs']
+   📊 Threat level: 0.87
+   💡 Recommendations: ['immediate_block', 'alert_administrator', 'enhance_monitoring', 'rate_limiting']
+
+🔄 EVOLUTION CYCLE triggered: high_severity_threat
+  🔄 NetworkSentinel evolving rules...
+    📈 traffic_analysis: 0.700 → 0.796
+    📈 anomaly_detection: 0.800 → 0.826
+    📈 protocol_validation: 0.900 → 0.907
+  🔄 DeceptionDirector evolving rules...
+    📈 honeypot_effectiveness: 0.600 → 0.610
+    📈 breadcrumb_convincingness: 0.700 → 0.658
+    📈 emotional_manipulation: 0.500 → 0.487
+  🔄 ThreatAnalyzer evolving rules...
+    📈 correlation_strength: 0.800 → 0.905
+    📈 pattern_recognition: 0.750 → 0.821
+    📈 threat_prediction: 0.600 → 0.727
+
+🚨 THREAT EVENT DETECTED by NetworkSentinel
+   Type: udp_flood
+    🎭 Deception activated for attacker_1763655156: ['simple_honeypot', 'obvious_breadcrumbs']
+   🎭 Deception response: ['simple_honeypot', 'obvious_breadcrumbs']
+   📊 Threat level: 0.87
+   💡 Recommendations: ['immediate_block', 'alert_administrator', 'enhance_monitoring', 'rate_limiting']
+
+🔄 EVOLUTION CYCLE triggered: high_severity_threat
+  🔄 NetworkSentinel evolving rules...
+    📈 traffic_analysis: 0.796 → 0.850
+    📈 anomaly_detection: 0.826 → 0.780
+    📈 protocol_validation: 0.907 → 0.937
+  🔄 DeceptionDirector evolving rules...
+    📈 honeypot_effectiveness: 0.610 → 0.702
+    📈 breadcrumb_convincingness: 0.658 → 0.587
+    📈 emotional_manipulation: 0.487 → 0.539
+  🔄 ThreatAnalyzer evolving rules...
+    📈 correlation_strength: 0.905 → 0.878
+    📈 pattern_recognition: 0.821 → 0.951
+    📈 threat_prediction: 0.727 → 0.859
+
+🚨 THREAT EVENT DETECTED by NetworkSentinel
+   Type: oversized_packet
+    🎭 Deception activated for attacker_1763655158: ['simple_honeypot', 'obvious_breadcrumbs']
+   🎭 Deception response: ['simple_honeypot', 'obvious_breadcrumbs']
+   📊 Threat level: 0.84
+   💡 Recommendations: ['immediate_block', 'alert_administrator', 'enhance_monitoring']
+
+🔄 EVOLUTION CYCLE triggered: high_severity_threat
+  🔄 NetworkSentinel evolving rules...
+    📈 traffic_analysis: 0.850 → 0.844
+    📈 anomaly_detection: 0.780 → 0.788
+    📈 protocol_validation: 0.937 → 0.979
+  🔄 DeceptionDirector evolving rules...
+    📈 honeypot_effectiveness: 0.702 → 0.683
+    📈 breadcrumb_convincingness: 0.587 → 0.715
+    📈 emotional_manipulation: 0.539 → 0.521
+  🔄 ThreatAnalyzer evolving rules...
+    📈 correlation_strength: 0.878 → 0.845
+    📈 pattern_recognition: 0.951 → 0.957
+    📈 threat_prediction: 0.859 → 1.015
+
+🚨 THREAT EVENT DETECTED by NetworkSentinel
+   Type: udp_flood
+    🎭 Deception activated for attacker_1763655159: ['simple_honeypot', 'obvious_breadcrumbs']
+   🎭 Deception response: ['simple_honeypot', 'obvious_breadcrumbs']
+   📊 Threat level: 1.00
+   💡 Recommendations: ['immediate_block', 'alert_administrator', 'enhance_monitoring', 'rate_limiting']
+
+🔄 EVOLUTION CYCLE triggered: high_severity_threat
+  🔄 NetworkSentinel evolving rules...
+    📈 traffic_analysis: 0.844 → 1.000
+    📈 anomaly_detection: 0.788 → 0.912
+    📈 protocol_validation: 0.979 → 1.013
+  🔄 DeceptionDirector evolving rules...
+    📈 honeypot_effectiveness: 0.683 → 0.820
+    📈 breadcrumb_convincingness: 0.715 → 0.776
+    📈 emotional_manipulation: 0.521 → 0.476
+  🔄 ThreatAnalyzer evolving rules...
+    📈 correlation_strength: 0.845 → 0.822
+    📈 pattern_recognition: 0.957 → 0.994
+    📈 threat_prediction: 1.015 → 1.080
+
+🚨 THREAT EVENT DETECTED by NetworkSentinel
+   Type: udp_flood
+    🎭 Deception activated for attacker_1763655161: ['simple_honeypot', 'obvious_breadcrumbs']
+   🎭 Deception response: ['simple_honeypot', 'obvious_breadcrumbs']
+   📊 Threat level: 1.00
+   💡 Recommendations: ['immediate_block', 'alert_administrator', 'enhance_monitoring', 'rate_limiting']
+
+🔄 EVOLUTION CYCLE triggered: high_severity_threat
+  🔄 NetworkSentinel evolving rules...
+    📈 traffic_analysis: 1.000 → 0.934
+    📈 anomaly_detection: 0.912 → 1.080
+    📈 protocol_validation: 1.013 → 1.034
+  🔄 DeceptionDirector evolving rules...
+    📈 honeypot_effectiveness: 0.820 → 0.746
+    📈 breadcrumb_convincingness: 0.776 → 0.805
+    📈 emotional_manipulation: 0.476 → 0.628
+  🔄 ThreatAnalyzer evolving rules...
+    📈 correlation_strength: 0.822 → 0.816
+    📈 pattern_recognition: 0.994 → 1.114
+    📈 threat_prediction: 1.080 → 1.209
+
+🚨 THREAT EVENT DETECTED by NetworkSentinel
+   Type: udp_flood
+    🎭 Deception activated for attacker_1763655162: ['simple_honeypot', 'obvious_breadcrumbs']
+   🎭 Deception response: ['simple_honeypot', 'obvious_breadcrumbs']
+   📊 Threat level: 1.00
+   💡 Recommendations: ['immediate_block', 'alert_administrator', 'enhance_monitoring', 'rate_limiting']
+
+🔄 EVOLUTION CYCLE triggered: high_severity_threat
+  🔄 NetworkSentinel evolving rules...
+    📈 traffic_analysis: 0.934 → 0.975
+    📈 anomaly_detection: 1.080 → 1.140
+    📈 protocol_validation: 1.034 → 1.041
+  🔄 DeceptionDirector evolving rules...
+    📈 honeypot_effectiveness: 0.746 → 0.817
+    📈 breadcrumb_convincingness: 0.805 → 0.715
+    📈 emotional_manipulation: 0.628 → 0.542
+  🔄 ThreatAnalyzer evolving rules...
+    📈 correlation_strength: 0.816 → 0.838
+    📈 pattern_recognition: 1.114 → 1.211
+    📈 threat_prediction: 1.209 → 1.301
+
+📊 SCIS Status Update (Time: 10s)
+   Network Sentinel τ: 6.0
+   Deception Director τ: 6.0
+   Threat Analyzer τ: 6.0
+   Total Threats Processed: 6
+
+🚨 THREAT EVENT DETECTED by NetworkSentinel
+   Type: udp_flood
+    🎭 Deception activated for attacker_1763655163: ['simple_honeypot', 'obvious_breadcrumbs']
+   🎭 Deception response: ['simple_honeypot', 'obvious_breadcrumbs']
+   📊 Threat level: 1.00
+   💡 Recommendations: ['immediate_block', 'alert_administrator', 'enhance_monitoring', 'rate_limiting']
+
+🔄 EVOLUTION CYCLE triggered: high_severity_threat
+  🔄 NetworkSentinel evolving rules...
+    📈 traffic_analysis: 0.975 → 0.998
+    📈 anomaly_detection: 1.140 → 1.300
+    📈 protocol_validation: 1.041 → 1.066
+  🔄 DeceptionDirector evolving rules...
+    📈 honeypot_effectiveness: 0.817 → 0.744
+    📈 breadcrumb_convincingness: 0.715 → 0.752
+    📈 emotional_manipulation: 0.542 → 0.725
+  🔄 ThreatAnalyzer evolving rules...
+    📈 correlation_strength: 0.838 → 0.864
+    📈 pattern_recognition: 1.211 → 1.206
+    📈 threat_prediction: 1.301 → 1.315
+
+🚨 THREAT EVENT DETECTED by NetworkSentinel
+   Type: oversized_packet
+    🎭 Deception activated for attacker_1763655164: ['simple_honeypot', 'obvious_breadcrumbs']
+   🎭 Deception response: ['simple_honeypot', 'obvious_breadcrumbs']
+   📊 Threat level: 1.00
+   💡 Recommendations: ['immediate_block', 'alert_administrator', 'enhance_monitoring']
+
+🔄 EVOLUTION CYCLE triggered: high_severity_threat
+  🔄 NetworkSentinel evolving rules...
+    📈 traffic_analysis: 0.998 → 1.133
+    📈 anomaly_detection: 1.300 → 1.255
+    📈 protocol_validation: 1.066 → 1.095
+  🔄 DeceptionDirector evolving rules...
+    📈 honeypot_effectiveness: 0.744 → 0.718
+    📈 breadcrumb_convincingness: 0.752 → 0.802
+    📈 emotional_manipulation: 0.725 → 0.691
+  🔄 ThreatAnalyzer evolving rules...
+    📈 correlation_strength: 0.864 → 0.905
+    📈 pattern_recognition: 1.206 → 1.230
+    📈 threat_prediction: 1.315 → 1.376
+
+🚨 THREAT EVENT DETECTED by NetworkSentinel
+   Type: oversized_packet
+    🎭 Deception activated for attacker_1763655165: ['simple_honeypot', 'obvious_breadcrumbs']
+   🎭 Deception response: ['simple_honeypot', 'obvious_breadcrumbs']
+   📊 Threat level: 1.00
+   💡 Recommendations: ['immediate_block', 'alert_administrator', 'enhance_monitoring']
+
+🔄 EVOLUTION CYCLE triggered: high_severity_threat
+  🔄 NetworkSentinel evolving rules...
+    📈 traffic_analysis: 1.133 → 1.178
+    📈 anomaly_detection: 1.255 → 1.299
+    📈 protocol_validation: 1.095 → 1.142
+  🔄 DeceptionDirector evolving rules...
+    📈 honeypot_effectiveness: 0.718 → 0.787
+    📈 breadcrumb_convincingness: 0.802 → 0.748
+    📈 emotional_manipulation: 0.691 → 0.611
+  🔄 ThreatAnalyzer evolving rules...
+    📈 correlation_strength: 0.905 → 0.969
+    📈 pattern_recognition: 1.230 → 1.291
+    📈 threat_prediction: 1.376 → 1.485
+
+🚨 THREAT EVENT DETECTED by NetworkSentinel
+   Type: udp_flood
+    🎭 Deception activated for attacker_1763655166: ['simple_honeypot', 'obvious_breadcrumbs']
+   🎭 Deception response: ['simple_honeypot', 'obvious_breadcrumbs']
+   📊 Threat level: 1.00
+   💡 Recommendations: ['immediate_block', 'alert_administrator', 'enhance_monitoring', 'rate_limiting']
+
+🔄 EVOLUTION CYCLE triggered: high_severity_threat
+  🔄 NetworkSentinel evolving rules...
+    📈 traffic_analysis: 1.178 → 1.273
+    📈 anomaly_detection: 1.299 → 1.423
+    📈 protocol_validation: 1.142 → 1.147
+  🔄 DeceptionDirector evolving rules...
+    📈 honeypot_effectiveness: 0.787 → 0.848
+    📈 breadcrumb_convincingness: 0.748 → 0.682
+    📈 emotional_manipulation: 0.611 → 0.796
+  🔄 ThreatAnalyzer evolving rules...
+    📈 correlation_strength: 0.969 → 0.920
+    📈 pattern_recognition: 1.291 → 1.440
+    📈 threat_prediction: 1.485 → 1.578
+
+🔄 EVOLUTION CYCLE triggered: periodic_evolution
+  🔄 NetworkSentinel evolving rules...
+    📈 traffic_analysis: 1.273 → 1.416
+    📈 anomaly_detection: 1.423 → 1.484
+    📈 protocol_validation: 1.147 → 1.162
+  🔄 DeceptionDirector evolving rules...
+    📈 honeypot_effectiveness: 0.848 → 0.801
+    📈 breadcrumb_convincingness: 0.682 → 0.634
+    📈 emotional_manipulation: 0.796 → 0.713
+  🔄 ThreatAnalyzer evolving rules...
+    📈 correlation_strength: 0.920 → 0.971
+    📈 pattern_recognition: 1.440 → 1.397
+    📈 threat_prediction: 1.578 → 1.570
+
+🚨 THREAT EVENT DETECTED by NetworkSentinel
+   Type: oversized_packet
+    🎭 Deception activated for attacker_1763655169: ['simple_honeypot', 'obvious_breadcrumbs']
+   🎭 Deception response: ['simple_honeypot', 'obvious_breadcrumbs']
+   📊 Threat level: 1.00
+   💡 Recommendations: ['immediate_block', 'alert_administrator', 'enhance_monitoring']
+
+🔄 EVOLUTION CYCLE triggered: high_severity_threat
+  🔄 NetworkSentinel evolving rules...
+    📈 traffic_analysis: 1.416 → 1.399
+    📈 anomaly_detection: 1.484 → 1.609
+    📈 protocol_validation: 1.162 → 1.137
+  🔄 DeceptionDirector evolving rules...
+    📈 honeypot_effectiveness: 0.801 → 0.844
+    📈 breadcrumb_convincingness: 0.634 → 0.557
+    📈 emotional_manipulation: 0.713 → 0.793
+  🔄 ThreatAnalyzer evolving rules...
+    📈 correlation_strength: 0.971 → 0.908
+    📈 pattern_recognition: 1.397 → 1.562
+    📈 threat_prediction: 1.570 → 1.561
+
+🚨 THREAT EVENT DETECTED by NetworkSentinel
+   Type: oversized_packet
+    🎭 Deception activated for attacker_1763655171: ['simple_honeypot', 'obvious_breadcrumbs']
+   🎭 Deception response: ['simple_honeypot', 'obvious_breadcrumbs']
+   📊 Threat level: 1.00
+   💡 Recommendations: ['immediate_block', 'alert_administrator', 'enhance_monitoring']
+
+🔄 EVOLUTION CYCLE triggered: high_severity_threat
+  🔄 NetworkSentinel evolving rules...
+    📈 traffic_analysis: 1.399 → 1.430
+    📈 anomaly_detection: 1.609 → 1.770
+    📈 protocol_validation: 1.137 → 1.170
+  🔄 DeceptionDirector evolving rules...
+    📈 honeypot_effectiveness: 0.844 → 1.022
+    📈 breadcrumb_convincingness: 0.557 → 0.721
+    📈 emotional_manipulation: 0.793 → 0.820
+  🔄 ThreatAnalyzer evolving rules...
+    📈 correlation_strength: 0.908 → 0.916
+    📈 pattern_recognition: 1.562 → 1.578
+    📈 threat_prediction: 1.561 → 1.486
+
+📊 SCIS Status Update (Time: 20s)
+   Network Sentinel τ: 13.0
+   Deception Director τ: 13.0
+   Threat Analyzer τ: 13.0
+   Total Threats Processed: 12
+
+🚨 THREAT EVENT DETECTED by NetworkSentinel
+   Type: oversized_packet
+    🎭 Deception activated for attacker_1763655174: ['simple_honeypot', 'obvious_breadcrumbs']
+   🎭 Deception response: ['simple_honeypot', 'obvious_breadcrumbs']
+   📊 Threat level: 1.00
+   💡 Recommendations: ['immediate_block', 'alert_administrator', 'enhance_monitoring']
+
+🔄 EVOLUTION CYCLE triggered: high_severity_threat
+  🔄 NetworkSentinel evolving rules...
+    📈 traffic_analysis: 1.430 → 1.505
+    📈 anomaly_detection: 1.770 → 1.869
+    📈 protocol_validation: 1.170 → 1.184
+  🔄 DeceptionDirector evolving rules...
+    📈 honeypot_effectiveness: 1.022 → 1.118
+    📈 breadcrumb_convincingness: 0.721 → 0.783
+    📈 emotional_manipulation: 0.820 → 0.807
+  🔄 ThreatAnalyzer evolving rules...
+    📈 correlation_strength: 0.916 → 0.950
+    📈 pattern_recognition: 1.578 → 1.533
+    📈 threat_prediction: 1.486 → 1.633
+
+🚨 THREAT EVENT DETECTED by NetworkSentinel
+   Type: udp_flood
+    🎭 Deception activated for attacker_1763655176: ['simple_honeypot', 'obvious_breadcrumbs']
+   🎭 Deception response: ['simple_honeypot', 'obvious_breadcrumbs']
+   📊 Threat level: 1.00
+   💡 Recommendations: ['immediate_block', 'alert_administrator', 'enhance_monitoring', 'rate_limiting']
+
+🔄 EVOLUTION CYCLE triggered: high_severity_threat
+  🔄 NetworkSentinel evolving rules...
+    📈 traffic_analysis: 1.505 → 1.500
+    📈 anomaly_detection: 1.869 → 1.897
+    📈 protocol_validation: 1.184 → 1.215
+  🔄 DeceptionDirector evolving rules...
+    📈 honeypot_effectiveness: 1.118 → 1.037
+    📈 breadcrumb_convincingness: 0.783 → 0.731
+    📈 emotional_manipulation: 0.807 → 0.831
+  🔄 ThreatAnalyzer evolving rules...
+    📈 correlation_strength: 0.950 → 0.912
+    📈 pattern_recognition: 1.533 → 1.610
+    📈 threat_prediction: 1.633 → 1.686
+
+🚨 THREAT EVENT DETECTED by NetworkSentinel
+   Type: oversized_packet
+    🎭 Deception activated for attacker_1763655179: ['simple_honeypot', 'obvious_breadcrumbs']
+   🎭 Deception response: ['simple_honeypot', 'obvious_breadcrumbs']
+   📊 Threat level: 1.00
+   💡 Recommendations: ['immediate_block', 'alert_administrator', 'enhance_monitoring']
+
+🔄 EVOLUTION CYCLE triggered: high_severity_threat
+  🔄 NetworkSentinel evolving rules...
+    📈 traffic_analysis: 1.500 → 1.463
+    📈 anomaly_detection: 1.897 → 1.853
+    📈 protocol_validation: 1.215 → 1.254
+  🔄 DeceptionDirector evolving rules...
+    📈 honeypot_effectiveness: 1.037 → 1.127
+    📈 breadcrumb_convincingness: 0.731 → 0.672
+    📈 emotional_manipulation: 0.831 → 0.978
+  🔄 ThreatAnalyzer evolving rules...
+    📈 correlation_strength: 0.912 → 1.026
+    📈 pattern_recognition: 1.610 → 1.525
+    📈 threat_prediction: 1.686 → 1.823
+
+🔄 EVOLUTION CYCLE triggered: periodic_evolution
+  🔄 NetworkSentinel evolving rules...
+    📈 traffic_analysis: 1.463 → 1.563
+    📈 anomaly_detection: 1.853 → 1.809
+    📈 protocol_validation: 1.254 → 1.266
+  🔄 DeceptionDirector evolving rules...
+    📈 honeypot_effectiveness: 1.127 → 1.063
+    📈 breadcrumb_convincingness: 0.672 → 0.690
+    📈 emotional_manipulation: 0.978 → 0.953
+  🔄 ThreatAnalyzer evolving rules...
+    📈 correlation_strength: 1.026 → 1.010
+    📈 pattern_recognition: 1.525 → 1.619
+    📈 threat_prediction: 1.823 → 1.881
+
+📊 SCIS Status Update (Time: 30s)
+   Network Sentinel τ: 17.0
+   Deception Director τ: 17.0
+   Threat Analyzer τ: 17.0
+   Total Threats Processed: 15
+
+==================================================
+📈 SCIS DEMO COMPLETE - FINAL REPORT
+==================================================
+
+🏆 Performance Summary:
+   Total Simulation Time: 30 seconds
+   Threats Detected: 15
+   Evolution Cycles: 17
+
+🔧 Final Agent States:
+   NetworkSentinel:
+     traffic_analysis: 1.563
+     anomaly_detection: 1.809
+     protocol_validation: 1.266
+   DeceptionDirector:
+     honeypot_effectiveness: 1.063
+     breadcrumb_convincingness: 0.690
+     emotional_manipulation: 0.953
+   ThreatAnalyzer:
+     correlation_strength: 1.010
+     pattern_recognition: 1.619
+     threat_prediction: 1.881
+
+🎭 Deception Director Profiles:
+   attacker_1763655154: skill=0.60, frustration=0.00
+   attacker_1763655156: skill=0.60, frustration=0.00
+   attacker_1763655158: skill=0.60, frustration=0.00
+   attacker_1763655159: skill=0.60, frustration=0.00
+   attacker_1763655161: skill=0.60, frustration=0.00
+   attacker_1763655162: skill=0.60, frustration=0.00
+   attacker_1763655163: skill=0.60, frustration=0.00
+   attacker_1763655164: skill=0.60, frustration=0.00
+   attacker_1763655165: skill=0.60, frustration=0.00
+   attacker_1763655166: skill=0.60, frustration=0.00
+   attacker_1763655169: skill=0.60, frustration=0.00
+   attacker_1763655171: skill=0.60, frustration=0.00
+   attacker_1763655174: skill=0.60, frustration=0.00
+   attacker_1763655176: skill=0.60, frustration=0.00
+   attacker_1763655179: skill=0.60, frustration=0.00
+
+💡 Threat Analysis:
+   High-confidence threats: 15
+
+✅ SCIS demonstrated successful:
+   ✓ Real-time threat detection
+   ✓ Multi-agent coordination
+   ✓ Adaptive rule evolution
+   ✓ Advanced deception tactics
+   ✓ Threat intelligence analysis
+
+=== Code Execution Successful ===
